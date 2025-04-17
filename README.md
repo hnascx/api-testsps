@@ -1,4 +1,4 @@
-# Back-End Application
+# Back-end (Teste SPS Group)
 
 Este é o repositório do back-end da aplicação. Ele foi desenvolvido utilizando **Fastify** e utiliza um banco de dados em memória para persistência de dados. Esta API é responsável pela autenticação, manipulação e gerenciamento de usuários.
 
